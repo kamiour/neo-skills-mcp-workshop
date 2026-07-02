@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "neo-fight": {
+      "command": "npx",
+      "args": ["tsx", "src/index.ts"]
+    }
+  }
+}
